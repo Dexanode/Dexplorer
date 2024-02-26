@@ -20,20 +20,20 @@
     "coin_type": "118",
     "min_tx_fee": "3000",
     "addr_prefix": "nibi",
-    "logo": "/logos/nibiru.png",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nibiru/images/nibiru.svg",
     "assets": [{
         "base": "unibi",
         "symbol": "NIBI",
         "exponent": "0",
         "coingecko_id": "nibi", 
-        "logo": "/logos/nibiru.png"
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nibiru/images/nibiru.svg"
     },
     {
         "base": "nibi",
         "symbol": "NIBI",
         "exponent": "6",
         "coingecko_id": "nibi", 
-        "logo": "/logos/nibiru.png"
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nibiru/images/nibiru.svg"
     }
 ]
 }

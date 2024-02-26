@@ -19,20 +19,20 @@
     "coin_type": "118",
     "min_tx_fee": "3000",
     "addr_prefix": "ununifi",
-    "logo": "/logos/ununifi.png",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/ununifi/images/ununifi.png",
     "assets": [{
         "base": "uguu",
         "symbol": "UnUniFi",
         "exponent": "0",
         "coingecko_id": "ununifi", 
-        "logo": "/logos/ununifi.png"
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/ununifi/images/ununifi.png"
     },
     {
         "base": "guu",
         "symbol": "GUU",
         "exponent": "6",
         "coingecko_id": "ununifi", 
-        "logo": "/logos/ununifi.png"
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/ununifi/images/ununifi.png"
     }
 ]
 }

@@ -11,8 +11,8 @@
         "symbol": "KYVE",
         "exponent": "6",
         "coingecko_id": "", 
-        "logo": "/logos/kyve.svg"
+        "logo": "https://ping.pub/logos/kyve.svg"
     }],
     "addr_prefix": "kyve",
-    "logo": "/logos/kyve.svg"
+    "logo": "https://ping.pub/logos/kyve.svg"
 }
