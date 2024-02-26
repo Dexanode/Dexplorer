@@ -9,7 +9,7 @@
     "addr_prefix": "mx",
     "logo": "/logos/crossfi.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
-    "theme_color": "#B22222",
+    "theme_color": "#00bfff",
     "assets": [{
         "base": "mpx",
         "symbol": "PX",
