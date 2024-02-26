@@ -1,0 +1,20 @@
+{
+    "chain_name": "planq",
+    "api": ["https://api.testnet.swisstronik.com","https://api.swisstronik.indonode.net"],
+    "rpc": ["https://rpc.testnet.swisstronik.com","https://rpc.swisstronik.indonode.net"],
+    "snapshot_provider": "",
+    "sdk_version": "1.0.1",
+    "coin_type": "118",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "SWTR",
+    "logo": "/public/logos/swisstronik.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#3d587b",
+    "assets": [{
+        "base": "uswtr",
+        "symbol": "SWTR",
+        "exponent": "18",
+        "coingecko_id": "planq",
+        "logo": "/public/logos/swisstronik.png"
+    }]
+}
