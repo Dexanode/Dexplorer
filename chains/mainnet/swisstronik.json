@@ -7,7 +7,7 @@
     "coin_type": "118",
     "min_tx_fee": "5000000000000000",
     "addr_prefix": "SWTR",
-    "logo": "/public/logos/swisstronik.png",
+    "logo": "/logos/swisstronik.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "theme_color": "#B22222",
     "assets": [{
@@ -15,6 +15,6 @@
         "symbol": "SWTR",
         "exponent": "18",
         "coingecko_id": "",
-        "logo": "/public/logos/swisstronik.png"
+        "logo": "/logos/swisstronik.png"
     }]
 }
