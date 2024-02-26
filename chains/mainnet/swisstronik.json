@@ -1,5 +1,5 @@
 {
-    "chain_name": "planq",
+    "chain_name": "Swisstronik-Testnet",
     "api": ["https://api.testnet.swisstronik.com","https://api.swisstronik.indonode.net"],
     "rpc": ["https://rpc.testnet.swisstronik.com","https://rpc.swisstronik.indonode.net"],
     "snapshot_provider": "",
@@ -9,12 +9,12 @@
     "addr_prefix": "SWTR",
     "logo": "/public/logos/swisstronik.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
-    "theme_color": "#3d587b",
+    "theme_color": "#B22222",
     "assets": [{
         "base": "uswtr",
         "symbol": "SWTR",
         "exponent": "18",
-        "coingecko_id": "planq",
+        "coingecko_id": "",
         "logo": "/public/logos/swisstronik.png"
     }]
 }
