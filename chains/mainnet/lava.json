@@ -1,0 +1,34 @@
+{
+    "chain_name": "lavatestnet",
+    "api": [
+       
+        "https://public-rpc-testnet2.lavanet.xyz/rest/",
+        "https://lava.api.t.stavr.tech"
+    ],
+    "rpc": [
+        "https://https://public-rpc-testnet2.lavanet.xyz/",
+        "http://lava.rpc.t.stavr.tech:198"
+
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.47",
+    "coin_type": "118",
+    "min_tx_fee": "3000",
+    "addr_prefix": "lava",
+    "logo": "/logos/lava.png",
+    "assets": [{
+        "base": "ulava",
+        "symbol": "LAVA",
+        "exponent": "0",
+        "coingecko_id": "lava", 
+        "logo": "/logos/lava.png"
+    },
+    {
+        "base": "lava",
+        "symbol": "LAVA",
+        "exponent": "6",
+        "coingecko_id": "lava", 
+        "logo": "/logos/lava.png"
+    }
+]
+}

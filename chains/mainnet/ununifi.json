@@ -1,0 +1,38 @@
+{
+    "chain_name": "ununifi",
+    "api": [
+        "https://a.lcd.ununifi.cauchye.net:1318",
+        "https://b.lcd.ununifi.cauchye.net:1318",
+        "https://api.ununifi.nodestake.top",
+        "https://ununifi-api.lavenderfive.com:443",
+        "https://ununifi-api.genznodes.dev"
+    ],
+    "rpc": [
+        "http://a.lcd.ununifi.cauchye.net:26657",
+        "https://rpc.ununifi.nodestake.top",
+        "https://ununifi-rpc.lavenderfive.com:443",
+        "https://ununifi-rpc.genznodes.dev"
+
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.47",
+    "coin_type": "118",
+    "min_tx_fee": "3000",
+    "addr_prefix": "ununifi",
+    "logo": "/logos/ununifi.png",
+    "assets": [{
+        "base": "uguu",
+        "symbol": "UnUniFi",
+        "exponent": "0",
+        "coingecko_id": "ununifi", 
+        "logo": "/logos/ununifi.png"
+    },
+    {
+        "base": "guu",
+        "symbol": "GUU",
+        "exponent": "6",
+        "coingecko_id": "ununifi", 
+        "logo": "/logos/ununifi.png"
+    }
+]
+}
