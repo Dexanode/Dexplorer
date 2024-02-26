@@ -9,6 +9,7 @@
     "addr_prefix": "plq",
     "logo": "https://ping.pub/logos/planq.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#3d587b",
     "assets": [{
         "base": "aplanq",
         "symbol": "plq",

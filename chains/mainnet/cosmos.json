@@ -21,6 +21,7 @@
     "min_tx_fee": "800",
     "addr_prefix": "cosmos",
     "logo": "https://ping.pub/logos/cosmos.svg",
+    "theme_color": "#bf1bea",
     "assets": [{
         "base": "uatom",
         "symbol": "ATOM",

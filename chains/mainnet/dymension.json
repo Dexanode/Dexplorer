@@ -41,6 +41,7 @@
   "min_tx_fee": "20000000000",
   "addr_prefix": "dym",
   "logo": "https://ping.pub/logos/dymension.png",
+  "theme_color": "#24201f",
   "assets": [{
       "base": "adym",
       "symbol": "DYM",

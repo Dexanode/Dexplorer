@@ -8,6 +8,7 @@
     "min_tx_fee": "3000",
     "addr_prefix": "decentr",
     "logo": "https://ping.pub/logos/decentr.png",
+    "theme_color": "#4c7cf6",
     "assets": [{
         "base": "udec",
         "symbol": "DEC",

@@ -20,6 +20,7 @@
     "min_tx_fee": "3000",
     "addr_prefix": "ununifi",
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/ununifi/images/ununifi.png",
+    "theme_color": "#50698c",
     "assets": [{
         "base": "uguu",
         "symbol": "UnUniFi",

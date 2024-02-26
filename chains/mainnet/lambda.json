@@ -8,6 +8,7 @@
     "addr_prefix": "lamb",
     "logo": "https://ping.pub/logos/lambda.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#e32454",
     "assets": [
       {
         "base": "ulamb",

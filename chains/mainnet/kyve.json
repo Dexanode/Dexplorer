@@ -6,6 +6,7 @@
     "sdk_version": "0.46.10",
     "coin_type": "118",
     "min_tx_fee": "4000",
+    "theme_color": "#2e4846",
     "assets": [{
         "base": "ukyve",
         "symbol": "KYVE",
