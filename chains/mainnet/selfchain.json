@@ -17,12 +17,12 @@
     "coin_type": "118",
     "min_tx_fee": "0",
     "addr_prefix": "self",
-    "logo": "/logos/selfchain.jpg",
+    "logo": "/logos/selfchain.png",
     "assets": [
       {
         "base": "uself",
         "symbol": "SELF",
         "exponent": "6",
-        "logo": "/logos/selfchain.jpg"
+        "logo": "/logos/selfchain.png"
     }]
 }
