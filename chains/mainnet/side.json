@@ -1,6 +1,6 @@
 {
     "chain_name": "side",
-    "api": ["https://side-testnet-api.itrocket.net"],
+    "api": ["https://testnet-rest.side.one"],
     "rpc": ["https://side-testnet-rpc.itrocket.net"],
     "sdk_version": "0.47.3",
     "addr_prefix": "side",
